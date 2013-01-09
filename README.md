@@ -13,4 +13,4 @@ Usage:
   
   sudo service newznab start
   
-  ** Makes sure t=all tbhe paths match your install
+  ** Makes sure all the paths match your install
