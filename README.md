@@ -1,5 +1,11 @@
 nn_init
-=======
+========
+
+
+**RECOMMEND USING JONNYBOYS SCRIPTS -> https://github.com/jonnyboy/newznab-tmux**
+
+
+
 
 Init Script for newznab that incorporates all the steps to run a successful indexer.
 
